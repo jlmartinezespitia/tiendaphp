@@ -1,0 +1,9 @@
+pasos
+
+Tienda online
++++++++++++++
+
+1. Crear el sitio Dreamweaver.
+2. Crear carpeta imagenes y bajar imagenes.
+3. Crear base de datos.
+
